@@ -1,0 +1,19 @@
+{
+  "name": "dicoding-javascript-introduction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Animal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laiflonglearner/dicoding-javascript-introduction.git"
+  },
+  "author": "laiflonglearner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laiflonglearner/dicoding-javascript-introduction/issues"
+  },
+  "homepage": "https://github.com/laiflonglearner/dicoding-javascript-introduction#readme"
+}

@@ -33,5 +33,5 @@ const restaurant = {
 }
 
 const { name, "favorite drink": favoriteDrink } = restaurant;
-console.log(name);
+console.log(restaurant.name);
 console.log(favoriteDrink);

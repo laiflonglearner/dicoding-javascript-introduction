@@ -2,9 +2,11 @@
   "name": "dicoding-javascript-introduction",
   "version": "1.0.0",
   "description": "",
-  "main": "Animal.js",
+  "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node 08-module/export-import-ES6-module/index.js"
   },
   "repository": {
     "type": "git",

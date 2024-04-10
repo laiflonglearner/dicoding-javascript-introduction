@@ -17,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/laiflonglearner/dicoding-javascript-introduction/issues"
   },
-  "homepage": "https://github.com/laiflonglearner/dicoding-javascript-introduction#readme"
+  "homepage": "https://github.com/laiflonglearner/dicoding-javascript-introduction#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
